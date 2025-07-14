@@ -118,8 +118,6 @@ The application will be available at `http://localhost:8501`
 
 ```
 
-smart-research-assistant/
-
 ├── app.py                          # Main Streamlit application
 
 ├── backend/
@@ -350,12 +348,3 @@ smart-research-assistant/
 
 5\. Submit a pull request
 
-
-
-\## License
-
-
-
-This project is created for educational and demonstration purposes.
-
-"# DATAez" 
